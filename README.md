@@ -16,7 +16,7 @@ This project contains an example on how to use spring state machine in restful w
 ## Swagger
 
 Swagger is majorly used for API documentation. Following are the API Controllers used in the application:
-<kbd>![Swagger](https://github.com/singlaChirag/State-machine-project/blob/master/images/swagger.png)
+<kbd>![Swagger](https://github.com/singlaChirag1999/State-machine-project/blob/master/images/swagger.png)
 
 ## Usage
 
